@@ -3,7 +3,8 @@ $LockScreenPath = "LockScreenImagePath"
 $LockScreenStatus = "LockScreenImageStatus"
 $LockScreenUrl = "LockScreenImageUrl"
 $StatusValue = "1"
-$url = "https://raw.githubusercontent.com/euportwell/wallpapers/main/Kiosk_Lockscreen_20211014_v1.png"
+$url = "https://raw.githubusercontent.com/euportwell/wallpapers/main/EUCO_Wallpaper.jpg"
+
 $LockScreenImageValue = "C:\MDM\wallpaper.jpg"
 $directory = "C:\MDM\"
 If ((Test-Path -Path $directory) -eq $false)
